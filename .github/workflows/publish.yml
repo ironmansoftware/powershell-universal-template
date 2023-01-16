@@ -10,7 +10,7 @@ jobs:
 
     - name: Publish
       run: |
-        Invoke-RestMethod https://ironmansoftware.com/templates/v2 -Method POST -Headers @{
+        Invoke-RestMethod https://ironmansoftware.com/powershell-universal/templates/v2 -Method POST -Headers @{
            'X-Token' = $ENV:TOKEN
         } -Body (@{ 
            repositoryUrl = "https://github.com/$($ENV:GITHUB_REPOSITORY).git"
