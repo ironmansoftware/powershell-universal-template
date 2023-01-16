@@ -1,3 +1,5 @@
+![](./ims-logo.png)
+
 # PowerShell Universal Template
 
 This repository is used for creating PowerShell Universal Templates.
