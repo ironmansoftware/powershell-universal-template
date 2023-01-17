@@ -1,5 +1,5 @@
 {
-    "description": "This is a PowerShell Universal template.",
+    "description": "This template was generated with the PowerShell Universal Template repository.",
     "name": "PowerShell Universal Template",
-    "version": "1.0.0"
+    "version": "1.0.1"
 }

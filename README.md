@@ -2,7 +2,7 @@
 
 # PowerShell Universal Template
 
-This repository is used for creating PowerShell Universal Templates.
+This repository is used for creating PowerShell Universal Templates. You can create a new repository based on this one to publish your own templates.
 
 ## Creating a Template
 
